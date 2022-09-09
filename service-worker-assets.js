@@ -105,11 +105,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-jTBpCdoBAl7W2+6OuhRtd1P3yw1HXnceOW0lxtkrA3w=",
+      "hash": "sha256-H2AzA6TZYbCXmUaXpBBNvVW+BYLzjbMrTc+r4jI9SB4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-R6WPGSnMLThahjQoEoUNtBzMMObzachIL7ux9Vej6Cs=",
+      "hash": "sha256-5jWxC7eWmLtJMOVez695WZ3y\/n4sVJKOl3mKOj9L1HM=",
       "url": "_framework\/BetterAusfallplan.dll"
     },
     {
@@ -317,7 +317,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-HkqdSmOoOMVCLvA5ddTASFNoPxJXaGSUUnyZ3EizaWA=",
+      "hash": "sha256-+ZAHNt2dHZ8NhNmtn0SPeBRMTWlctLgL7UyMUBFBddk=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -369,7 +369,7 @@
       "url": "_framework\/System.Xml.XDocument.dll"
     },
     {
-      "hash": "sha256-9owiAc+fY22Fqef9huLCJTfdjmVi+Ngwz+twhbxqWJM=",
+      "hash": "sha256-pgq9wQiizKCinUcSCBcd2irH9Pydgdyxa4PntRyNEWI=",
       "url": "BetterAusfallplan.styles.css"
     },
     {
@@ -481,5 +481,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "b8cplmP+"
+  "version": "S6EU7wO6"
 };
