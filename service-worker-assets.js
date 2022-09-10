@@ -481,5 +481,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "S6EU7wO6"
+  "version": "S6EU7wO67"
 };
