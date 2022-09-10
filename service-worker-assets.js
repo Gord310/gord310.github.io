@@ -105,11 +105,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-H2AzA6TZYbCXmUaXpBBNvVW+BYLzjbMrTc+r4jI9SB4=",
+      "hash": "sha256-nUSc8K+vdzSopmeTEeTw8al7A\/1SvE3Ahg9KaqjlHZ4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-5jWxC7eWmLtJMOVez695WZ3y\/n4sVJKOl3mKOj9L1HM=",
+      "hash": "sha256-1BTi\/q8UjM8c7KAUrtiFXSyq61R3mGYYwNWHlGDd9Ps=",
       "url": "_framework\/BetterAusfallplan.dll"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-dHh3W+i+pN\/f\/YtSSq0jQI2IoYPsF+fnPlKAjiukkm4=",
+      "hash": "sha256-ezSaOy5U58WT4zcUy0EjG8TPUzIaaqGUGRQKGAfLk0M=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
@@ -317,7 +317,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-+ZAHNt2dHZ8NhNmtn0SPeBRMTWlctLgL7UyMUBFBddk=",
+      "hash": "sha256-HkqdSmOoOMVCLvA5ddTASFNoPxJXaGSUUnyZ3EizaWA=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -481,5 +481,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "S6EU7wO67"
+  "version": "F4jOOhWsM"
 };
